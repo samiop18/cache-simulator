@@ -1,6 +1,6 @@
 import React from 'react';
-import { Layout, Search, Hash, Info } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { Layout, Hash, Info } from 'lucide-react';
+import { motion } from 'framer-motion';
 import { useSimulation } from '../context/SimulationContext';
 import * as Tooltip from '@radix-ui/react-tooltip';
 

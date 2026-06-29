@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import type { Variants } from 'framer-motion';
 import Sidebar from './components/Sidebar';

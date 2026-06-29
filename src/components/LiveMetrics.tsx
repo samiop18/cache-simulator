@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react';
-import { Activity, BarChart3, Binary, BrainCircuit, TrendingUp } from 'lucide-react';
+import { Activity, BarChart3, BrainCircuit, TrendingUp } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useSimulation } from '../context/SimulationContext';
 import { clsx } from 'clsx';
