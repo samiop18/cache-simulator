@@ -5,7 +5,6 @@ import {
   Layers, 
   Play,
   Terminal,
-  Cpu,
   Target,
   Zap,
   LineChart
